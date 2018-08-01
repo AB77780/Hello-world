@@ -1,2 +1,2 @@
 # Hello-world
-Just getting started with this Git thing
+Hi there , my name is AB and i like coding, running, movies and music
